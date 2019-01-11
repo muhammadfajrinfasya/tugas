@@ -1,0 +1,17 @@
+.navbar{
+	background: blue;
+}
+
+#tampilan{
+	margin-top: 70px;
+	margin-right: 600px; 
+}
+
+#tampilan img{
+	margin-left: 340px;
+}
+
+#tampilan .container .row .col-lg-6 table{
+	padding-top: 90px;
+
+}
